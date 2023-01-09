@@ -1,3 +1,10 @@
+---
+
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/01_borrowers_reliability_analysis/Girya_borrowers_reliability_analysis.ipynb)**
+
+---
+
 # Тестовое задание Travelata.ru (февраль 2022)
 
 ---
@@ -43,5 +50,10 @@
 2) Найти все строки таблицы за тот же период, числовой показатель которых соответсвует моде предыдущего пункта –например, если модой являются значения от 40 до 50, то найти строки, числовой показатель которой принадлежит данному диапазону
 
 Ответ должен содержать один запрос: второй пункт задания содержит первый как подзапрос
+
+---
+
+:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
+**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/YaP_DA_2021/blob/main/01_borrowers_reliability_analysis/Girya_borrowers_reliability_analysis.ipynb)**
 
 ---
