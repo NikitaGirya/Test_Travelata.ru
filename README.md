@@ -1,16 +1,7 @@
----
-
-:white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
-**[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/Test_Travelata.ru/blob/main/Test_Travelata.ru.ipynb)**
-
----
-
 # Тестовое задание Travelata.ru (февраль 2022)
 **на вакансию `Младший инженер-аналитик`**
 
 `pandas`  `plotly` `postgresql`
-
----
 
 <p align="center">
   <img src="https://luckywings.ru/wp-content/uploads/2020/06/travelata-2.jpg" width=700 height=450 />
@@ -57,5 +48,3 @@
 
 :white_check_mark::ok_hand:Для корректного отображения разметки `Markdown`, `LaTeX` и интерактивности графиков `Plotly` </br>
 **[Cмотреть через Jupyter Notebook Viewer](https://nbviewer.org/github/NikitaGirya/Test_Travelata.ru/blob/main/Test_Travelata.ru.ipynb)**
-
----
