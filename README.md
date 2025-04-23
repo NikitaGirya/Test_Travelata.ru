@@ -8,7 +8,7 @@
 # Тестовое задание Travelata.ru (февраль 2022)
 **на вакансию `Младший инженер-аналитик`**
 
-`pandas`  `plotly` `PostgreSQL`
+`pandas`  `plotly` `postgresql`
 
 ---
 
